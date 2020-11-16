@@ -1,5 +1,7 @@
 {
     "id": 1,
     "email_address": "imransyed@gmail.com",
-    "password": "0123456789"
+    "password": "0123456789",
+    "token": "JDJD&&&$44234234jjhj32j32j3",
+    "status": false
 }
